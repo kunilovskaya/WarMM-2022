@@ -33,7 +33,7 @@ The repo contains:
 * a sample of the corpus made of 25 items from each type of media used as sources, namely TV, official press and social networks. 
 * a full list of media outlets used as sources for data collection
 * a full list of (grouped) keywords used for data analysis
-* a copy of the paper accepted to be presented at [LaTeCH-CLfL 2023](https://sighum.wordpress.com/events/latech-clfl-2023/)
+* a copy of the paper accepted and presented at [LaTeCH-CLfL 2023](https://sighum.wordpress.com/events/latech-clfl-2023/)
 * a folder with graphs used in the paper
 
 Please contact mkunilovskaya@gmail.com for further information about the dataset.
